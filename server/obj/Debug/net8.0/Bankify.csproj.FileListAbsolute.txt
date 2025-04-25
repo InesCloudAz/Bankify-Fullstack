@@ -175,3 +175,4 @@ C:\Users\inesa\source\Bankify\server\obj\Debug\net8.0\refint\Bankify.dll
 C:\Users\inesa\source\Bankify\server\obj\Debug\net8.0\Bankify.pdb
 C:\Users\inesa\source\Bankify\server\obj\Debug\net8.0\Bankify.genruntimeconfig.cache
 C:\Users\inesa\source\Bankify\server\obj\Debug\net8.0\ref\Bankify.dll
+C:\Users\inesa\source\Bankify\server\obj\Debug\net8.0\Bankify.sourcelink.json

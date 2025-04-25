@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bankify")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1fac245349756c86bb3f5f5820e50fd09afdb40")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3bd207992852acbc26753da4fed1295be12c7407")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bankify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bankify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
